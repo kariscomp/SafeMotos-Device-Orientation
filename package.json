@@ -1,0 +1,20 @@
+{
+    "version": "0.0.1",
+    "name": "com.safemotos.deviceorientation",
+    "cordova_name": "Device Orientation",
+    "description": "Plugin to give pitch, azimuth and roll based from sensor fusion",
+    "license": "MIT",
+    "repo": "https://github.com/kariscomp/SafeMotos-Device-Orientation.git",
+    "issue": "",
+    "keywords": [
+        "cordova",
+        "device",
+        "orientation",
+        "safemotos"
+    ],
+    "platforms": [
+        "android"
+    ],
+    "engines": [],
+    "englishdoc": "Plugin to get pitch, azimuth and roll from smart phone sensors by using Sensor Fusion"
+}
