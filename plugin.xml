@@ -18,23 +18,23 @@
   under the License.
 -->
 
-<plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-           id="org.apache.cordova.device-motion"
+<plugin xmlns:android="http://schemas.android.com/apk/res/android" 
+  id="com.safemotos.deviceorientation"
       version="0.0.1">
 	
     <name>Device Orientation</name>
     <description>Cordova Device Orientation Plugin</description>
     <license>MIT</license>
     <keywords>cordova,device,orientation,safemotos</keywords>
-    <repo></repo>
+    <repo>https://github.com/kariscomp/SafeMotos-Device-Orientation.git</repo>
     <issue></issue>
 
-    <js-module src="www/Acceleration.js" name="Acceleration">
-        <clobbers target="Acceleration" />
+    <js-module src="www/SensorFusioning.js" name="SensorFusion">
+        <clobbers target="SensorFusion" />
     </js-module>
     
-    <js-module src="www/accelerometer.js" name="accelerometer">
-        <clobbers target="navigator.accelerometer" />
+    <js-module src="www/sensorfusion.js" name="SensorFusioning">
+        <clobbers target="navigator.SensorFusioning" />
     </js-module>
 
     
