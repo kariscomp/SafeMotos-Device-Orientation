@@ -4,10 +4,8 @@
  * This class provides access to fused device orientation data.
  * @constructor
  */
-var argscheck = require('cordova/argscheck'),
-    utils = require("cordova/utils"),
-    exec = require("cordova/exec"),
-    SensorFusioning = require('./SensorFusioning');
+var utils = require("cordova/utils"),
+    exec = require("cordova/exec");
 
 // Is the accel sensor running?
 var running = false;
@@ -19,13 +17,23 @@ var timers = {};
 var listeners = [];
 
 // Last returned SensorFusioning object from native
-var accel = null;
+var sf = null;
+
+
+var SensorFusion = function(azimuth, pitch, roll, timestamp) {
+    this.azimuth = azimuth;
+    this.pitch = pitch;
+    this.roll = roll;
+    this.timestamp = timestamp || (new Date()).getTime();
+};
+
+// alert('Arrived at Sensor Fusoin');
 
 // Tells native to start.
 function start() {
     exec(function(a) {
         var tempListeners = listeners.slice(0);
-        sf = new SensorFusioning(a.azimuth, a.pitch, a.roll, a.timestamp);
+        sf = new SensorFusion(a.azimuth, a.pitch, a.roll, a.timestamp);
         for (var i = 0, l = tempListeners.length; i < l; i++) {
             tempListeners[i].win(sf);
         }
@@ -60,7 +68,7 @@ function removeListeners(l) {
     }
 }
 
-var sensorfusion = {
+var SensorData = {
     /**
      * Asynchronously acquires the current SensorFusioning.
      *
@@ -69,7 +77,7 @@ var sensorfusion = {
      * @param {SensorFusioningOptions} options The options for getting the sensorfusion data such as timeout. (OPTIONAL)
      */
     getCurrentSensorFusioning: function(successCallback, errorCallback, options) {
-        argscheck.checkArgs('fFO', 'sensorfusion.getCurrentSensorFusioning', arguments);
+        // argscheck.checkArgs('fFO', 'sensorfusion.getCurrentSensorFusioning', arguments);
 
         var p;
         var win = function(a) {
@@ -98,7 +106,7 @@ var sensorfusion = {
      * @return String                       The watch id that must be passed to #clearWatch to stop watching.
      */
     watchSensorFusioning: function(successCallback, errorCallback, options) {
-        argscheck.checkArgs('fFO', 'sensorfusion.watchSensorFusioning', arguments);
+        // argscheck.checkArgs('fFO', 'sensorfusion.watchSensorFusioning', arguments);
         // Default interval (10 sec)
         var frequency = (options && options.frequency && typeof options.frequency == 'number') ? options.frequency : 10000;
 
@@ -113,8 +121,8 @@ var sensorfusion = {
 
         timers[id] = {
             timer:window.setInterval(function() {
-                if (accel) {
-                    successCallback(accel);
+                if (sf) {
+                    successCallback(sf);
                 }
             }, frequency),
             listeners:p
@@ -123,8 +131,8 @@ var sensorfusion = {
         if (running) {
             // If we're already running then immediately invoke the success callback
             // but only if we have retrieved a value, sample code does not check for null ...
-            if (accel) {
-                successCallback(accel);
+            if (sf) {
+                successCallback(sf);
             }
         } else {
             start();
@@ -147,4 +155,4 @@ var sensorfusion = {
         }
     }
 };
-module.exports = SensorFusioning;
+module.exports = SensorData;

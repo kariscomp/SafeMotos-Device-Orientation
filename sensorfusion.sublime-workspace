@@ -1,0 +1,1398 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"de",
+				"deviceorientation"
+			],
+			[
+				"Senso",
+				"SensorFusion"
+			],
+			[
+				"sens",
+				"sensorList"
+			],
+			[
+				"or",
+				"orientation"
+			],
+			[
+				"Loca",
+				"LocationAccuracy"
+			],
+			[
+				"dl",
+				"dLoc"
+			],
+			[
+				"eror",
+				"errorHere"
+			],
+			[
+				"dL",
+				"dLoc"
+			],
+			[
+				"las",
+				"lastKnownGeo"
+			],
+			[
+				"Resp",
+				"ResponseGeo"
+			],
+			[
+				"Pro",
+				"ProgressUpdate"
+			],
+			[
+				"Carma",
+				"CarmaTripID"
+			],
+			[
+				"type",
+				"typeof"
+			],
+			[
+				"Tri",
+				"TripFinished"
+			],
+			[
+				"bad",
+				"bad_trigger"
+			],
+			[
+				"miss",
+				"missing_end_location"
+			],
+			[
+				"end",
+				"endDriveEndpoint"
+			],
+			[
+				"endDr",
+				"endDriveParams"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"drive",
+				"driverId"
+			],
+			[
+				"typ",
+				"typeof"
+			],
+			[
+				"stau",
+				"statusCode"
+			],
+			[
+				"car",
+				"carmaResponse"
+			],
+			[
+				"star",
+				"starsRanking"
+			],
+			[
+				"fin",
+				"find	.find()"
+			],
+			[
+				"G",
+				"GLOBAL"
+			],
+			[
+				"endi",
+				"ending"
+			],
+			[
+				"ending",
+				"endingGeo"
+			],
+			[
+				"uned",
+				"undefined"
+			],
+			[
+				"more",
+				"moreInfo"
+			],
+			[
+				"new",
+				"newOffer"
+			],
+			[
+				"userd",
+				"userid"
+			],
+			[
+				"send",
+				"sendPushNotification"
+			],
+			[
+				"hand",
+				"handleError"
+			],
+			[
+				"register",
+				"registered"
+			],
+			[
+				"ep",
+				"expirationInterval"
+			],
+			[
+				"exp",
+				"expirationInterval"
+			],
+			[
+				"start",
+				"startPushServer"
+			],
+			[
+				"safe",
+				"safemotos-app"
+			],
+			[
+				"Aver",
+				"AverageSpeed"
+			],
+			[
+				"Curre",
+				"CurrentFare"
+			],
+			[
+				"helper",
+				"helpers"
+			],
+			[
+				"driv",
+				"driver_not_available"
+			],
+			[
+				"alre",
+				"already_picked_up"
+			],
+			[
+				"acce",
+				"access_denied"
+			],
+			[
+				"driver",
+				"driver_is_rider"
+			],
+			[
+				"futu",
+				"future_pickup_time"
+			],
+			[
+				"inva",
+				"invalid_location"
+			],
+			[
+				"pick",
+				"pickupPassengerPath"
+			],
+			[
+				"pi",
+				"pickupPassengerEndpoint"
+			],
+			[
+				"near",
+				"nearby"
+			],
+			[
+				"Job",
+				"JobOffer"
+			],
+			[
+				"ram",
+				"randomOfferID"
+			],
+			[
+				"Trip",
+				"TripInfo"
+			],
+			[
+				"Driver",
+				"DriverID"
+			],
+			[
+				"find",
+				"findOne"
+			],
+			[
+				"Access",
+				"access_denied"
+			],
+			[
+				"sta",
+				"startDrivePath"
+			],
+			[
+				"Time",
+				"TimeOffered"
+			],
+			[
+				"rand",
+				"randomOfferID"
+			],
+			[
+				"Offer",
+				"OfferID"
+			],
+			[
+				"Inof",
+				"Information"
+			],
+			[
+				"Res",
+				"ResponseGeo"
+			],
+			[
+				"curre",
+				"currentTime"
+			],
+			[
+				"Push",
+				"PushModel"
+			],
+			[
+				"Driv",
+				"DriversLocation"
+			],
+			[
+				"Dr",
+				"DriversLocation"
+			],
+			[
+				"tr",
+				"tripStartedInterval"
+			],
+			[
+				"eve",
+				"eventReceived"
+			],
+			[
+				"jobI",
+				"jobID"
+			],
+			[
+				"dri",
+				"drivingStyle"
+			],
+			[
+				"soc",
+				"socket"
+			],
+			[
+				"Dri",
+				"DriverID"
+			],
+			[
+				"aver",
+				"averageScore"
+			],
+			[
+				"av",
+				"averageScore"
+			],
+			[
+				"sco",
+				"totalScore"
+			],
+			[
+				"score",
+				"scoreCount"
+			],
+			[
+				"cal",
+				"calculateTripScore"
+			],
+			[
+				"sc",
+				"score"
+			],
+			[
+				"sum",
+				"sumBadCounters"
+			],
+			[
+				"Rating",
+				"RatingID"
+			],
+			[
+				"dr",
+				"DriverID"
+			],
+			[
+				"suc",
+				"Success"
+			],
+			[
+				"fare",
+				"fareObject"
+			],
+			[
+				"di",
+				"Distance"
+			],
+			[
+				"cur",
+				"CurrentFare"
+			],
+			[
+				"tim",
+				"Time"
+			],
+			[
+				"time",
+				"timeTaken"
+			],
+			[
+				"loca",
+				"LocationID"
+			],
+			[
+				"Upda",
+				"UpdateTimestamp"
+			],
+			[
+				"Locat",
+				"LocationTimestamp"
+			],
+			[
+				"Loc",
+				"LocationAccuracy"
+			],
+			[
+				"Alt",
+				"AltitudeAccuracy"
+			],
+			[
+				"mess",
+				"messageName"
+			],
+			[
+				"uniq",
+				"uniqueKey"
+			],
+			[
+				"sock",
+				"socket"
+			],
+			[
+				"acc",
+				"accessToken"
+			],
+			[
+				"ride",
+				"rideInProgress"
+			],
+			[
+				"cle",
+				"clearInterval"
+			],
+			[
+				"locUp",
+				"locUpdatesR"
+			],
+			[
+				"loc",
+				"locUpdatesR"
+			],
+			[
+				"inde",
+				"indexOfRoom"
+			],
+			[
+				"room",
+				"rooms"
+			],
+			[
+				"uni",
+				"uniqueKey"
+			],
+			[
+				"socke",
+				"socketid"
+			],
+			[
+				"devc",
+				"deviceUUID"
+			],
+			[
+				"roon",
+				"roomName"
+			],
+			[
+				"userid",
+				"userid"
+			],
+			[
+				"query",
+				"queryForDrivers"
+			],
+			[
+				"dev",
+				"dviceID"
+			],
+			[
+				"device",
+				"deviceUUID"
+			],
+			[
+				"devi",
+				"deviceUUID"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"Em",
+				"Emitted"
+			],
+			[
+				"en",
+				"ending"
+			],
+			[
+				"Accep",
+				"Accepted"
+			],
+			[
+				"une",
+				"undefined"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"Emite",
+				"Emitted"
+			],
+			[
+				"TripI",
+				"TripID"
+			],
+			[
+				"trip",
+				"tripID"
+			],
+			[
+				"result",
+				"resultFailed"
+			],
+			[
+				"count",
+				"countOfMiles"
+			],
+			[
+				"quer",
+				"queryForDrivers"
+			],
+			[
+				"driverR",
+				"driversResults"
+			],
+			[
+				"Emit",
+				"Emited"
+			],
+			[
+				"so",
+				"socket"
+			],
+			[
+				"us",
+				"userid"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "plugin.xml",
+			"settings":
+			{
+				"buffer_size": 1986,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "www/SensorData.js",
+			"settings":
+			{
+				"buffer_size": 5029,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/android/DeviceOrientation.java",
+			"settings":
+			{
+				"buffer_size": 23576,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 203.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"prett",
+				"HTMLPrettify: Set Prettify Preferences"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Disable Package"
+			],
+			[
+				"pac",
+				"Package Control: Enable Package"
+			],
+			[
+				"insta	",
+				"Package Control: Install Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			]
+		],
+		"width": 507.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/peter/Documents/SafeMotos/DeviceOrientation/SafeMotos-Device-Orientation/www/SensorFusion.js",
+		"/Users/peter/Documents/SafeMotos/DeviceOrientation/SafeMotos-Device-Orientation/src/android/SensorFusion.java",
+		"/Users/peter/Documents/SafeMotos/SafeMotos-Drivers-App/DriversApp/plugins/org.apache.cordova.device-motion/plugin.xml",
+		"/Users/peter/Documents/SafeMotos/DeviceOrientation/SafeMotos-Device-Orientation/README.md",
+		"/Users/peter/Documents/SafeMotos/DeviceOrientation/SafeMotos-Device-Orientation/NOTICE",
+		"/Users/peter/Documents/Softwares/plugin/www/sensorfusion.js",
+		"/Users/peter/Documents/Softwares/plugin/www/SensorFusioning.js",
+		"/Users/peter/Documents/Softwares/plugin/src/com/goatstone/util/SensorFusion.java",
+		"/Users/peter/Documents/Softwares/plugin/src/android/DeviceOrientation.java",
+		"/Users/peter/Documents/Softwares/plugin/README.md",
+		"/Users/peter/Documents/Softwares/plugin/plugin.xml",
+		"/Users/peter/Documents/Softwares/plugin/package.json",
+		"/Users/peter/Documents/Softwares/plugin/src/android/AccelListener.java",
+		"/Users/peter/Documents/Softwares/plugin/tests/plugin.xml",
+		"/Users/peter/Documents/Softwares/plugin/tests/tests.js",
+		"/Users/peter/Documents/SafeMotos/CustomerApp/SafeMotos-Customer-App/SafeMotos/plugins/plugin.http.request/package.json",
+		"/Users/peter/Documents/SafeMotos/CustomerApp/SafeMotos-Customer-App/SafeMotos/plugins/plugin.http.request/plugin.xml",
+		"/Users/peter/Documents/SafeMotos/CustomerApp/SafeMotos-Customer-App/SafeMotos/plugins/plugin.http.request/www/http-request.js",
+		"/Users/peter/Documents/Softwares/AndroidSensorFusion/java/com/goatstone/util/SensorFusion.java",
+		"/Users/peter/Documents/SafeMotos/CustomerApp/SafeMotos-Customer-App/SafeMotos/plugins/plugin.http.request/src/android/plugin/http/request/HttpRequest.java",
+		"/Users/peter/Documents/SafeMotos/CustomerApp/SafeMotos-Customer-App/SafeMotos/plugins/plugin.http.request/src/android/plugin/http/request/StringRequest.java",
+		"/Users/peter/Documents/temp/loopback-component-push/example/server/app.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/drivers-location.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/push.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/package.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/model-config.json",
+		"/Users/peter/Documents/temp/loopback-component-push/example/server/models.json",
+		"/Users/peter/Documents/temp/loopback-component-push/example/server-2.0/server/datasources.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback-component-push/example/server-2.0/server/push-demo.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/application.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback-component-push/example/server-2.0/server/model-config.json",
+		"/Users/peter/Documents/temp/loopback-component-push/example/server/datasources.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/application.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/driver-ranking.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback-component-push/example/server-2.0/server/server.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback-component-push/example/server-2.0/server/datasources.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/installation.json",
+		"/Users/peter/Documents/temp/loopback-component-push/models/installation.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/notification.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/notification.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/push.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/note.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/boot/create-sample-data.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback-component-push/example/server/models.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/googlemaps/lib/googlemaps.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/test/rest-api.test.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/datasources.json",
+		"/Users/peter/Documents/temp/loopback-component-push/example/server/app.js",
+		"/Users/peter/Documents/temp/loopback-component-push/example/server/config.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/config.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/boot/rest-api.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/boot/explorer.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/boot/authentication.js",
+		"/Users/peter/Documents/temp/loopback-component-push/example/server-2.0/server/models/application.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback-explorer/public/index.html",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback-datasource-juggler/package.json",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/historical-driver-location.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/historical-driver-locations.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/common/models/location.json",
+		"/Users/peter/Desktop/rawReq",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/lineareg/lib/lineareg.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/lineareg/app.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/algorithm-js/algorithm.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/server/server.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback/common/models/application.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback/common/models/scope.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/node_modules/loopback/index.js",
+		"/Users/peter/Documents/SafeMotos/Our Endpoint/SafeMotos-Endpoint/SafeEndpoint/client/lbServices.js",
+		"/Users/peter/Library/Application Support/Sublime Text 3/Packages/HTML-CSS-JS Prettify/.jsbeautifyrc",
+		"/home/peter/Dropbox/busticketing/Innovys/www/js/index.js",
+		"/home/peter/Dropbox/MyMoto/css/site.css",
+		"/home/peter/Dropbox/MyMoto/views/home.html",
+		"/home/peter/Dropbox/WeatherData/WeatherData/js/jsapi.js",
+		"/home/peter/Dropbox/MyMoto/index.html",
+		"/home/peter/Dropbox/busticketing/Innovys/www/index.html",
+		"/home/peter/Dropbox/busticketing/Innovys/www/js/printer.js",
+		"/home/peter/Dropbox/busticketing/Innovys/plugins/org.apache.cordova.sipkita/plugin.xml",
+		"/home/peter/Dropbox/busticketing/Innovys/platforms/android/assets/www/plugins/org.apache.cordova.sipkita/www/printer.js",
+		"/home/peter/Dropbox/busticketing/Innovys/www/js/datebox.js",
+		"/home/peter/Dropbox/busticketing/Innovys/platforms/android/src/org/apache/cordova/sipkita/PrinterHelper.javapeter",
+		"/home/peter/Dropbox/busticketing/Innovys/platforms/android/assets/www/js/printer.js",
+		"/home/peter/Dropbox/busticketing/Innovys/plugins/org.apache.cordova.sipkita/src/android/BluetoothPrinter.java",
+		"/home/peter/Dropbox/busticketing/Innovys/www/js/scrollto.js",
+		"/home/peter/Dropbox/busticketing/Innovys/www/kendo/styles/dataviz.min.css",
+		"/home/peter/Dropbox/busticketing/Innovys/www/js/jquery.js",
+		"/home/peter/Dropbox/busticketing/Innovys/www/js/datebox.core.js",
+		"/home/peter/Dropbox/busticketing/Innovys/www/js/flipbox.js",
+		"/home/peter/Downloads/onsen_tab_bar (1)/www/index.html",
+		"/home/peter/Downloads/onsen_tab_bar (1)/www/styles/app.css",
+		"/home/peter/Desktop/Dropbox/MyMoto/index.html",
+		"/home/peter/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/peter/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/peter/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/peter/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/peter/Desktop/Dropbox/MyMoto/js/spinner.js",
+		"/home/peter/Desktop/Dropbox/MyMoto/js/sha256.js",
+		"/home/peter/Desktop/Dropbox/MyMoto/bootstrap/css/bootstrap.css",
+		"/home/peter/Desktop/Dropbox/MyMoto/data/map.json",
+		"/home/peter/Desktop/Dropbox/MyMoto/js/MapClusterer.js",
+		"/home/peter/Desktop/Dropbox/MyMoto/js/Charts.js",
+		"/home/peter/Desktop/Dropbox/MyMoto/js/Map.js",
+		"/home/peter/Desktop/Dropbox/MyMoto/js/navigation.js",
+		"/home/peter/Desktop/Dropbox/MyMoto/css/site.css",
+		"/home/peter/Desktop/Dropbox/MyMoto/css/hover.css",
+		"/home/peter/Desktop/Dropbox/MyMoto/js/controllers.js",
+		"/home/peter/Desktop/Dropbox/MyMoto/drivers.html",
+		"/home/peet/Dropbox/MyMoto/index.html",
+		"/home/peet/Dropbox/MyMoto/css/hover.css",
+		"/home/peet/Dropbox/MyMoto/js/platform.js",
+		"/home/peet/Dropbox/MyMoto/js/jquery-ui.js",
+		"/home/peet/Dropbox/MyMoto/js/jquery-1.8.2.js",
+		"/home/peet/Dropbox/NODE/streaming.js",
+		"/home/peet/Dropbox/NODE/data.json",
+		"/home/peet/Dropbox/NODE/simpleServer.js",
+		"/home/peet/Dropbox/RTFC/www/index.html",
+		"/home/peet/.config/sublime-text-2/Packages/sublime-jslint/sublime-jslint.sublime-settings",
+		"/home/peet/Dropbox/Python/Collective Intelligence/Recommender System/pearson.py",
+		"/home/peet/Dropbox/Python/words.py",
+		"/home/peet/Dropbox/Python/Collective Intelligence/Recommender System/recommendations.pyc",
+		"/home/peet/Dropbox/Python/Collective Intelligence/Recommender System/deliciousrec.pyc",
+		"/home/peet/Dropbox/Python/Collective Intelligence/Recommender System/ci.sublime-project"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 95.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"accel",
+			"sensor",
+			"orien",
+			"magneto",
+			"compasss",
+			"Mode",
+			"sensorManager",
+			"sensor_Ser",
+			"SENSOR",
+			"0",
+			"help",
+			"accelerometer",
+			"Acceleration",
+			"OnStop",
+			"AccelListener",
+			"start Drive",
+			"start dr",
+			"notify",
+			"Job:New",
+			"className",
+			"RideUpdate",
+			"RIdeUpdate",
+			"helpers.",
+			"Trip:Starti",
+			"ProgressUpdate",
+			"pickupP",
+			"randomOffer",
+			"random",
+			"pickupP",
+			"Trip:DriverArr",
+			"push",
+			"Job:acc",
+			"clientMatched",
+			"clientMa",
+			"clientMatched",
+			".replace",
+			"clientMatched",
+			"Trip:Matched",
+			"Trip:Ma",
+			"client.post",
+			"clientMa",
+			"JobOffer.upsert",
+			"push",
+			"Push",
+			"JobOffer.upsert",
+			"Dealing with sock",
+			"dealing with sock",
+			"dealing with ",
+			"unable to u",
+			"unable to upsert",
+			"dealing with socket",
+			"JobOffer.upsert",
+			"JobOffer.upser",
+			"Trip:RideStarting",
+			"Trip:DriverArr",
+			"Job:Reject",
+			"JobOffer",
+			"userid+",
+			"uniqueKey",
+			"uniqueKe",
+			"inroom",
+			"tripID",
+			"TripInfo",
+			"Job:New",
+			"this",
+			"sucess",
+			"Job:Acce",
+			"Job:Ace",
+			"clientMatched",
+			"client",
+			"clientMatch",
+			"Job:",
+			"\"",
+			"and",
+			"findOne",
+			"dsocket",
+			"Job:New",
+			"client",
+			"dSocket.emit",
+			"dSocket",
+			"Driver:arr",
+			"cSock",
+			"notif",
+			"deviceUU",
+			"clientMatched",
+			"App",
+			"App.io.to",
+			"async",
+			"userSocket = ",
+			"userSocket",
+			"theu",
+			"No Socket",
+			"clientMa",
+			"notifyD",
+			"queryF",
+			"CurrentUser",
+			"getC",
+			"All up",
+			"token",
+			"Trip:Matched",
+			"clientMat",
+			"Trip:Driver",
+			"Trip:Mat",
+			"Socket for ",
+			"GeoPoi",
+			"\"",
+			"App",
+			"NEARBY",
+			"app.m",
+			"count",
+			"DriversL",
+			"RentalLocation",
+			"station.fin",
+			"monthNames",
+			"api",
+			"shake",
+			"draw",
+			"chart.dra",
+			"{\n",
+			"info.stationName",
+			"stationName",
+			"maxTempB",
+			"Station.",
+			"rootScope.push",
+			"\"",
+			"/pub/data/weather/uk/climate/stationdata/",
+			"splitLines(",
+			"VM1789:2 "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sensorfusion",
+			"SensorFusioning",
+			"DeviceOrientation",
+			"JobOffer",
+			"ctx.instance",
+			"'",
+			"DriversLocation",
+			"rootScope.searchBindings.push",
+			"'",
+			"",
+			"\\n",
+			"",
+			"!app.checkConnection",
+			"mmOutputStream",
+			"canvas",
+			"80%",
+			"#",
+			"mmOutputStream.write",
+			"",
+			"col-sm-8",
+			"col-sm-4",
+			"/img",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								440,
+								440
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1425418973.45,
+							"tabs_extra_last_activated_sheet_index": 0,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "plugin.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1986,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								830,
+								830
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1425418972.69,
+							"tabs_extra_last_activated_sheet_index": 1,
+							"tabs_extra_moving":
+							[
+								13,
+								0
+							],
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 157.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "www/SensorData.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5029,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								694,
+								694
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"tabs_extra_last_activated": 1425419218.93,
+							"tabs_extra_last_activated_sheet_index": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 154.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/android/DeviceOrientation.java",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 23576,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								40
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/Monokai (SL).tmTheme",
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"tab_size": 2,
+							"tabs_extra_last_activated": 1425418976.47,
+							"tabs_extra_last_activated_sheet_index": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 27.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.jslint_result_view":
+	{
+		"height": 112.0
+	},
+	"project": "sensorfusion.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

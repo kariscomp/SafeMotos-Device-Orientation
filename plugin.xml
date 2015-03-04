@@ -19,22 +19,22 @@
 -->
 
 <plugin xmlns:android="http://schemas.android.com/apk/res/android" 
-  id="com.safemotos.deviceorientation"
+  id="com.safemotos.sensorfusion"
       version="0.0.1">
 	
-    <name>Device Orientation</name>
+    <name>Sensor Fusion</name>
     <description>Cordova Device Orientation Plugin</description>
     <license>MIT</license>
     <keywords>cordova,device,orientation,safemotos</keywords>
     <repo>https://github.com/kariscomp/SafeMotos-Device-Orientation.git</repo>
     <issue></issue>
 
-    <js-module src="www/SensorFusioning.js" name="SensorFusion">
+    <!-- <js-module src="www/SensorFusioning.js" name="SensorFusion">
         <clobbers target="SensorFusion" />
-    </js-module>
+    </js-module> -->
     
-    <js-module src="www/sensorfusion.js" name="SensorFusioning">
-        <clobbers target="navigator.SensorFusioning" />
+    <js-module src="www/SensorData.js" name="SensorData">
+        <clobbers target="navigator.SensorData" />
     </js-module>
 
     
